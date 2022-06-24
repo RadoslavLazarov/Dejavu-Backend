@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EV1EWmcAJVtdEwgMnsWGR4dtiDMiqPfJpFWcPY9jqFE=",
+  "Source": "Dejavu.WebAPI",
+  "BasePath": "_content/Dejavu.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
